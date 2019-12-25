@@ -1,0 +1,5 @@
+-- Intruções --
+
+Para que o sistema de envio de email funcione e necessario que se faça os propcedimentos a seguir:
+
+No DevC ++, navegue para Projeto >> Opções do projeto (ou via geralmente ctrl+ h); depois, na guia " Parâmetros ", há um botão " Adicionar biblioteca ou objeto " e, em seguida, adicione libws2_32.a.

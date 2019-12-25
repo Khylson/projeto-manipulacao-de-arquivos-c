@@ -1,0 +1,8 @@
+1   	9384523785647	     Organizacao-Inteligente			        Elseveir	     2016     6784          
+2   	8436578234129        Risco-Calculado                                    CPB                  2015     3890      
+4   	6789045678342        O-Ceticismo-da-Fe                                  Agapes               2018     934765    
+5       9135670934252        Sonhe-Alto                                         bmp-Angola           2019     28798     
+6   	9578907654325        MoonWalk                                           MJ                   1989     6870      
+7       9374523785600        Minha.Historia                                     TDSBN                2018     78        
+8       8900873567321        Passos.de.Vitorias                                 bmp.angola           2019     287       
+9       9008763528012        Um.Pobre.Entre.os.Ricos                            Kutanga              2018     25670     
